@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated paper."
+title: "Multi-Modal Hierarchical Fusion for Real-Time GPS Spoofing and Jamming Detection in UAVs with Uncertainty-Aware Adaptive Navigation Control"
+authors:
+  - family-names: "Habib"
+    given-names: "Nauman"
+  - family-names: "Ahmad"
+    given-names: "Sohail"
+  - family-names: "Tariq"
+    given-names: "Muhammad"
+year: 2026
+license: MIT
+repository-code: "https://github.com/your-username/gps-spoofing-jamming-detection-uav"
