@@ -132,6 +132,3 @@ If you use this code, please cite the corresponding paper:
 }
 ```
 
-## License
-
-This project is released under the MIT License. Replace the license if your university, supervisor, or target venue requires a different license.
