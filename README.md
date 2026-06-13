@@ -45,7 +45,7 @@ Main components described in the paper:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Nauman123456/gps-spoofing-jamming-detection-uav.git
+git clone https://github.com/engrnomi786/gps-spoofing-jamming-detection-uav.git
 cd gps-spoofing-jamming-detection-uav
 ```
 
